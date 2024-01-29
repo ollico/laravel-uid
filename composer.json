@@ -3,7 +3,7 @@
   "description": "A handy package to generate unique identifiers for Eloquent models",
   "license": "MIT",
   "require": {
-    "php": "^8.1",
+    "php": "^8.2",
     "hashids/hashids": "^5.0",
     "illuminate/database": "^10.0",
     "illuminate/container": "^10.0",
